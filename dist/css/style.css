@@ -1,0 +1,13 @@
+body {
+  color: green;
+  opacity: 0.7;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+p {
+  background: url(../img/IMG_2390.jpg) center center/cover no-repeat;
+}
+
+.webp p { background: url(../img/IMG_2390.webp) center center/cover no-repeat; }
